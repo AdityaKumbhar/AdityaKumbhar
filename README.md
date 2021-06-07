@@ -53,11 +53,11 @@ You can click the Preview link to take a look at your changes.
                                                         
 
                                                                # Github Status #
-<a href="https://github.com/Aditya3414">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya3414&theme=light&hide_langs_below=1" />
+<a href="https://github.com/AdityaKumbhar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKumbhar&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/Aditya3414">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya3414&show_icons=true&theme=light&line_height=27" alt="Aditya's github stats"/>
+<a href="https://github.com/AdityaKumbhar">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaKumbhar&show_icons=true&theme=light&line_height=27" alt="Aditya's github stats"/>
 </a>
 
 <br />
