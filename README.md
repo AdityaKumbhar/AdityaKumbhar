@@ -13,7 +13,7 @@
 - ⚡ Fun fact: My name is an anagram & I With Play Codes
 - 📫 How to reach me kumbharaditya4212@gmail.com
 - 💬 Ask me about anything, I am happy to help;
-- 📝 [Resume](https://drive.google.com/drive/u/1/folders/1Dv2qEBhzd91xRaRR-3r9SVvXfCEHbkBO)
+- 📝 [Resume](https://drive.google.com/drive/u/1/folders/1UONDSfBLkCjD2JvuScL6-9b7ZakRMD2n)
 
 <!---
 Aditya3414/Aditya3414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
