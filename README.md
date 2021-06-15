@@ -6,7 +6,7 @@
 </p> 
 
 - 🔭 I’m currently working on **My Self**
-- 🌱 I’m currently learning Angular 8 , Node JS , Spring , Spring Boot 
+- 🌱 I’m currently learning SalesForce , Spring , Spring Boot 
 - 🤝 I’m looking for help with **Node JS , Angular 8**
 - 😄 Pronouns:He/His
 - 💬 Ask me about **anything, I am happy to help**
