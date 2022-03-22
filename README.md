@@ -11,7 +11,7 @@
 - 😄 Pronouns:He/His
 - 💬 Ask me about **anything, I am happy to help**
 - ⚡ Fun fact: My name is an anagram & I With Play Codes
-- 📫 How to reach me kumbharaditya4212@gmail.com
+- 📫 How to reach me aditya2tatto@gmail.com
 - 💬 Ask me about anything, I am happy to help;
 - 📝 [Resume](https://drive.google.com/drive/u/1/folders/1UONDSfBLkCjD2JvuScL6-9b7ZakRMD2n)
 
