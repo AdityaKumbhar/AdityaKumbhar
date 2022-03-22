@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 <a href=https://www.linkedin.com/in/aditya-kumbhar-532b66155?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9yZbnm9IQHig2MyFcuhd%2FA%3D%3D//>
   <img align="left" alt="Aditya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="kumbharaditya4212@gmail.com">
+<a href="aditya2tatto@gmail.com">
   <img align="left" alt="Aditya's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://github.com/Aditya3414">
